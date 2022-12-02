@@ -1,4 +1,6 @@
 class Land {
+int landSize, nextState, state, landColor;
+int x, y;
 
  Land() {
     x = 0;
